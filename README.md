@@ -1,1 +1,2 @@
 # KCoffee
+KCoffee is a 'Material Design' example of a coffee ordering app. The user is presented with a choice of 5 beverages which they can order from KCoffee with the app. Multiple orders can be made from the home screen and further information about the beverage can be found by clicking on the required item. A shopping basket displays the beverages ordered with the total cost and permits the user to edit or confirm the order. Once confirmed the user is presented with the confirmation required to collect the beverages.  
