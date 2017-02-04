@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KCoffee</string>
+    <string name="beverages">Place your order</string>
+    <string name="confirm">Confirm</string>
+    <string name="vorder">View order</string>
+    <string name="cost">Cost:</string>
+</resources>

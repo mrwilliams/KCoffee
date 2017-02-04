@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "223394867395",
+    "firebase_url": "https://kcoffee-2207c.firebaseio.com",
+    "project_id": "kcoffee-2207c",
+    "storage_bucket": "kcoffee-2207c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223394867395:android:aaa433205241e068",
+        "android_client_info": {
+          "package_name": "mobi.kewi.kcoffee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223394867395-fgi1dni9pfk572gbmh89fbq707p8reh6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mobi.kewi.kcoffee",
+            "certificate_hash": "7BC14E33AF0727B237A3CAD90D5E902744EDED52"
+          }
+        },
+        {
+          "client_id": "223394867395-gfnpp9ksmkps50q34hp016uqrkg4cmd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVYDZfkHSrRCtB3oXELSv27TVkS-FMxv8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223394867395-gfnpp9ksmkps50q34hp016uqrkg4cmd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
